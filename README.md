@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @LennyChenLaw
-- 👀 I’m interested in CS and Criminal Law
-- 🌱 I’m currently learning Law, some self-taught biology and Python. I am thinking about doing my master for Criminal Law for now.
+- 👋 Name: Hi, I’m Lenny Chen
+- 👀 Occupation: Currently a university student
+- 😀Interests: Language, Philosophy, Technical stuff, Anime and Mannga, etc.
+- 🌱About Me: I study agriculture at my university, but I am thinking about switching my major to law for my master's degree. I am passionate about language learning and can speak Mandarin Chinese, English, Japanese.
 - 📫 How to reach me Email: LennyChenLaw@gmail.com
 
 <!---
@@ -35,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <td td align="center">
 
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo5bTJxYzRkNjNrNW90dDEzNm13bjRwcGI3eDhmaWl3YnVyYmw5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LennyChenLaw)](https://git.io/streak-stats)
 </td>
 </tr>
 </table>
