@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <td td align="center">
 
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo5bTJxYzRkNjNrNW90dDEzNm13bjRwcGI3eDhmaWl3YnVyYmw5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=LennyChenLaw)](https://git.io/streak-stats) -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LennyChenLaw&theme=dark" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
