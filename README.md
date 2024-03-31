@@ -1,14 +1,18 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B+I+am+Lenny;Welcome+to+my+github)](https://git.io/typing-svg)
+## About me
 - 👋 Name: Hi, I’m Lenny Chen
 - 👀 Occupation: Currently a university student
-- 😀Interests: Language, Philosophy, Technical stuff, Anime and Mannga, etc.
-- 🌱About Me: I study agriculture at my university, but I am thinking about switching my major to law for my master's degree. I am passionate about language learning and can speak Mandarin Chinese, English, Japanese.
-- 📫 How to reach me Email: LennyChenLaw@gmail.com
+- 🌱Major: I study agriculture at my university, but I am thinking about switching my major to law for my master's degree. I am passionate about language learning and can speak Mandarin Chinese, English, Japanese.
+- 😀Interests: Language, Philosophy, Technical stuff, Bodybuilding, Anime and Manga, etc.
 
-<!---
-LennyChenLaw/LennyChenLaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B+I+am+Lenny;Welcome+to+my+github)](https://git.io/typing-svg)
+## Contact
+<p align="left">  
+&nbsp; <a href="https://www.instagram.com/lennychen13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:lennychenlaw@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+
+
 
 <table style="background-color:rgba(0, 0, 0, 0); border: 0px;">
 <tr style="padding-bottom: -10px;">
