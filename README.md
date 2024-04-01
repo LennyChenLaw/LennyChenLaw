@@ -18,7 +18,7 @@
 <tr style="padding-bottom: -10px;">
 <td>
 
-### 🔨 Languages and Tools
+## 🔨 Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
     
-###  📊 Github Stats
+##  📊 Github Stats
 ![Stats Overview](https://github.com/LennyChenLaw/github-stats-transparent-fork/blob/output/generated/overview.svg)
 ![Most Used Languages](https://github.com/LennyChenLaw/github-stats-transparent-fork/blob/output/generated/languages.svg)
 
@@ -44,3 +44,5 @@
 </td>
 </tr>
 </table>
+
+![Contribution](https://github.com/LennyChenLaw/Snake-in-Contribution-Grid-fork/blob/output/github-contribution-grid-snake.svg)
